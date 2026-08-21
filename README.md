@@ -9,7 +9,7 @@ Computer Science undergraduate at SRMIST Ramapuram with a passion for building A
 - 🌱 I’m currently exploring **Agentic AI Workflows, RAG Architectures, and Advanced Distributed Systems.**
 - 🤝 I’m looking to collaborate on **Open-source projects, AI/ML tools, and high-scale full-stack applications.**
 - 💬 Ask me about **Python, Java, FastAPI, React, Spring Boot, and Applied Machine Learning.**
-- ⚡ Fun fact: **I believe the best way to understand an algorithm is to build it from scratch.**
+- ⚡ Fun fact: **When I get a new project idea, I take a nap before coding it.**
 
 ---
 
