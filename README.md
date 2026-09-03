@@ -1,5 +1,4 @@
 <h1 align="center">Hello! I'm Soumik</h1>
-<p align="center"><em>Building intelligent systems with AI, full-stack engineering, and clean architectures</em></p>
 
 ### 🚀 About Me
 
