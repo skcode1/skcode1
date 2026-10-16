@@ -33,6 +33,8 @@ Computer Science undergraduate at SRMIST Ramapuram with a passion for building A
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet--32-00599C?style=for-the-badge&logo=pytorch&logoColor=white)
+![U-Net](https://img.shields.io/badge/U--Net-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Databases & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
