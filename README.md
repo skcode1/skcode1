@@ -2,8 +2,6 @@
   <h1>Hi, I'm Soumik Kar 👋</h1>
 </div>
 
----
-
 
 ### 🚀 About Me
 
