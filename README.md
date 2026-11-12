@@ -1,23 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Soumik Kar 👋</h1>
-  <p>
-    <strong>AI Systems Engineer • Full-Stack Developer • Open-Source Builder</strong>
-  </p>
-  <p>
-    CS Undergrad @ SRMIST Ramapuram • Google Student Ambassador '26 • Design Co-Head @ GFG SRM
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/karsoumik">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/skcode1">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:ksoumik029@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
 </div>
 
 ---
